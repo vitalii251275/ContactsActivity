@@ -1,0 +1,256 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AndroidGradleBuildConfiguration">
+        <option name="SYNC_PROJECT_BEFORE_BUILD" value="true" />
+      </component>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+        <option name="PARALLEL_COMPILATION" value="true" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="C:/Program Files/Java/jdk-9.0.1" />
+        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+        <property name="android.project.structure.last.selected" value="SDK Location" />
+        <property name="android.project.structure.proportion" value="0.15" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+          <module name="" />
+          <option name="DEPLOY" value="true" />
+          <option name="ARTIFACT_NAME" value="" />
+          <option name="PM_INSTALL_OPTIONS" value="" />
+          <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+          <option name="MODE" value="default_activity" />
+          <option name="CLEAR_LOGCAT" value="false" />
+          <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+          <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+          <option name="FORCE_STOP_RUNNING_APP" value="true" />
+          <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+          <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+          <option name="PREFERRED_AVD" value="" />
+          <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+          <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+          <option name="DEBUGGER_TYPE" value="Auto" />
+          <Auto>
+            <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+            <option name="SHOW_STATIC_VARS" value="true" />
+            <option name="WORKING_DIR" value="" />
+            <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+            <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+          </Auto>
+          <Hybrid>
+            <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+            <option name="SHOW_STATIC_VARS" value="true" />
+            <option name="WORKING_DIR" value="" />
+            <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+            <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+          </Hybrid>
+          <Java />
+          <Native>
+            <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+            <option name="SHOW_STATIC_VARS" value="true" />
+            <option name="WORKING_DIR" value="" />
+            <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+            <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+          </Native>
+          <Profilers>
+            <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+          </Profilers>
+          <option name="DEEP_LINK" value="" />
+          <option name="ACTIVITY_CLASS" value="" />
+          <method>
+            <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+            <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513267845775" />
+          </method>
+        </configuration>
+        <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+          <module name="" />
+          <option name="TESTING_TYPE" value="0" />
+          <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+          <option name="METHOD_NAME" value="" />
+          <option name="CLASS_NAME" value="" />
+          <option name="PACKAGE_NAME" value="" />
+          <option name="EXTRA_OPTIONS" value="" />
+          <option name="CLEAR_LOGCAT" value="false" />
+          <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+          <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+          <option name="FORCE_STOP_RUNNING_APP" value="true" />
+          <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+          <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+          <option name="PREFERRED_AVD" value="" />
+          <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+          <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+          <option name="DEBUGGER_TYPE" value="Auto" />
+          <Auto>
+            <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+            <option name="SHOW_STATIC_VARS" value="true" />
+            <option name="WORKING_DIR" value="" />
+            <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+            <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+          </Auto>
+          <Hybrid>
+            <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+            <option name="SHOW_STATIC_VARS" value="true" />
+            <option name="WORKING_DIR" value="" />
+            <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+            <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+          </Hybrid>
+          <Java />
+          <Native>
+            <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+            <option name="SHOW_STATIC_VARS" value="true" />
+            <option name="WORKING_DIR" value="" />
+            <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+            <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+          </Native>
+          <Profilers>
+            <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+          </Profilers>
+          <method>
+            <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+            <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513267845775" />
+          </method>
+        </configuration>
+        <configuration default="true" type="AppEngineRunConfiguration" factoryName="App Engine DevAppServer">
+          <module name="" />
+          <setting name="serverAddress" value="" />
+          <setting name="sdkPath" value="" />
+          <setting name="serverPort" value="" />
+          <setting name="vmArgs" value="" />
+          <setting name="warPath" value="" />
+          <setting name="sync" value="false" />
+          <setting name="disableUpdateCheck" value="false" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="JarApplication" factoryName="JAR Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="SCRATCH_FILE_ID" value="0" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="HTML_FILE_NAME" />
+          <option name="HTML_USED" value="false" />
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <option name="VM_PARAMETERS" />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
   </component>
 </application>
